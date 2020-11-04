@@ -20,7 +20,8 @@ The aim of project is to develop a system of improved facilities. The proposed s
 
 •Minimum time required.
 
-The modules of this project includes,
+#MODULES:
+------------
 
 •About section
 
